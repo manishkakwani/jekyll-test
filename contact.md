@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-[twitter](https://twitter.com)
+[twitter](https://twitter.com) :-) 
